@@ -1,0 +1,29 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "react-transition-group": "^2.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosienardulli/memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosienardulli/memory-game/issues"
+  },
+  "homepage": "https://github.com/rosienardulli/memory-game#readme"
+}
